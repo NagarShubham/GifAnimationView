@@ -1,10 +1,8 @@
 # GifAnimationView <img src="https://i.pinimg.com/originals/00/9d/d9/009dd94a954cb90091e310766e619a1a.gif" width="70" height="70"/>
-A simple library to show Gif file on Android.
+A simple library to show Gif files on Android. You can start, pause and stop GifAnimationView
 
 ## Example 😍
-
-![demo](https://im4.ezgif.com/tmp/ezgif-4-ed5a5c653c.gif)
-
+<img src="https://github.com/NagarShubham/GifAnimationView/blob/master/app/src/main/res/raw/demo.gif"/>
 
 
 ## Integration
